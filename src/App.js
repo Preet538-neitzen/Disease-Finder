@@ -34,7 +34,9 @@ class App extends React.Component {
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} /> 
-        <h4><i>Developed by Preet +(91)-(7021418124)</i></h4>
+        <h4><i>Developed by Preet +(91)-(7021418124) India, Mumbai</i></h4>
+        <h4>Github: https://github.com/Preet538-neitzen</h4>
+        <h4>Email: sanghavipreet2001@gmail.com</h4>
       </div>
     );
   }
