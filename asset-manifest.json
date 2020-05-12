@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Disease%20Finder/static/css/main.c547a503.chunk.css",
-    "main.js": "/Disease%20Finder/static/js/main.8e034a08.chunk.js",
-    "main.js.map": "/Disease%20Finder/static/js/main.8e034a08.chunk.js.map",
-    "runtime-main.js": "/Disease%20Finder/static/js/runtime-main.13a99c6a.js",
-    "runtime-main.js.map": "/Disease%20Finder/static/js/runtime-main.13a99c6a.js.map",
-    "static/js/2.e5941441.chunk.js": "/Disease%20Finder/static/js/2.e5941441.chunk.js",
-    "static/js/2.e5941441.chunk.js.map": "/Disease%20Finder/static/js/2.e5941441.chunk.js.map",
-    "index.html": "/Disease%20Finder/index.html",
-    "precache-manifest.36cae161ffa2dce98eb9a58914a4fc05.js": "/Disease%20Finder/precache-manifest.36cae161ffa2dce98eb9a58914a4fc05.js",
-    "service-worker.js": "/Disease%20Finder/service-worker.js",
-    "static/css/main.c547a503.chunk.css.map": "/Disease%20Finder/static/css/main.c547a503.chunk.css.map",
-    "static/js/2.e5941441.chunk.js.LICENSE.txt": "/Disease%20Finder/static/js/2.e5941441.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/Disease%20Finder/static/media/image.d7265326.png"
+    "main.css": "/Disease-Finder/static/css/main.c547a503.chunk.css",
+    "main.js": "/Disease-Finder/static/js/main.8e034a08.chunk.js",
+    "main.js.map": "/Disease-Finder/static/js/main.8e034a08.chunk.js.map",
+    "runtime-main.js": "/Disease-Finder/static/js/runtime-main.c1fb1767.js",
+    "runtime-main.js.map": "/Disease-Finder/static/js/runtime-main.c1fb1767.js.map",
+    "static/js/2.cfbc766a.chunk.js": "/Disease-Finder/static/js/2.cfbc766a.chunk.js",
+    "static/js/2.cfbc766a.chunk.js.map": "/Disease-Finder/static/js/2.cfbc766a.chunk.js.map",
+    "index.html": "/Disease-Finder/index.html",
+    "precache-manifest.191d3b0b73377f3fa582a6ed8734066e.js": "/Disease-Finder/precache-manifest.191d3b0b73377f3fa582a6ed8734066e.js",
+    "service-worker.js": "/Disease-Finder/service-worker.js",
+    "static/css/main.c547a503.chunk.css.map": "/Disease-Finder/static/css/main.c547a503.chunk.css.map",
+    "static/js/2.cfbc766a.chunk.js.LICENSE.txt": "/Disease-Finder/static/js/2.cfbc766a.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Disease-Finder/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.13a99c6a.js",
-    "static/js/2.e5941441.chunk.js",
+    "static/js/runtime-main.c1fb1767.js",
+    "static/js/2.cfbc766a.chunk.js",
     "static/css/main.c547a503.chunk.css",
     "static/js/main.8e034a08.chunk.js"
   ]
